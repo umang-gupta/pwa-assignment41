@@ -1,0 +1,17 @@
+{
+    "name":"Aadarsh PWA",
+    "short_name":"Sample",
+    "start_url":".",
+    "display":"standalone",
+    "background_color":"#fff",
+    "theme_color":"#fff",
+    "orientation":"portrait-primary",
+    "icons":[
+       
+        {
+            "src":"/static/img/a_logo.png",
+            "type":"image/png",
+            "sizes":"2048x2048"
+        }
+    ]
+}
